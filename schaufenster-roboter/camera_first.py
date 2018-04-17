@@ -22,5 +22,5 @@ camera.stop_preview()
 camera.start_preview()
 for i in range (5):
     sleep(5)
-    camera.capture("/home/pi/Desktop/python-praktikant/camera/bilder")
+    camera.capture("/home/pi/Desktop/python-praktikant/camera/bilder/image%s.jpg" % i)
 camera.stop_preview()
