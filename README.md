@@ -1,17 +1,39 @@
 # python-praktikant
-Software for teching python in 3 days
 
 
+## Shedule
 
-## Make one yourself
+## Day 1
 
+* raspberry basics
+* python basics
+* datenstrukturen
+* variablen
+* github
+* ssh key github
+* gpiozero 
+* led + button anschließen
+* roboter
 
+## Day 2
 
-## How you can help?
+* ssh + rasbperry pi
+* distance sensor
+* fritzing
+* make a script autostart
+* sh scripts
+* crontab [link](https://www.cyberciti.biz/faq/how-do-i-add-jobs-to-cron-under-linux-or-unix-oses/)
+* camera + python 
+* for loops
+* camera stop motion
 
-## Designer
+## Day 3
 
-
+* roboter bauen
+* distance sensor
+* gpio zero [link](https://learn.adafruit.com/turning-your-raspberry-pi-zero-into-a-usb-gadget/ethernet-gadget)
+* python 
+* webserver
 
 
 ## Contact erfindergarden
@@ -22,7 +44,7 @@ Andreas Kopp
 
 [www.erfindergarden.de](http://www.erfindergarden.de)
 
-[www.facbebook.com/erfindergarden](http://www.facbebook.com/erfindergarden)
+[www.facebook.com/erfindergarden](http://www.facbebook.com/erfindergarden)
 
  
 ## License
