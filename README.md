@@ -32,8 +32,12 @@
 * roboter bauen
 * distance sensor
 * gpio zero [link](https://learn.adafruit.com/turning-your-raspberry-pi-zero-into-a-usb-gadget/ethernet-gadget)
+* blynk [link](https://github.com/blynkkk/blynk-library/blob/master/linux/README.md)
 * python 
 * webserver
+* mit app inventor
+* robot mit keyboad [link](https://github.com/recantha/EduKit3-RC-Keyboard)
+* robot mit app [link](https://github.com/picymru/webbot)
 
 
 ## Contact erfindergarden
